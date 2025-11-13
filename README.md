@@ -8,7 +8,7 @@ This is similar to LJ Speech format, but lacks an additional field with normaliz
 
 ## Requirements
 
-- Python 3.10+
+- Python >=3.10, <3.14
 - [`uv`](https://docs.astral.sh/uv/)
 - `ffmpeg` (install with `sudo apt install ffmpeg`)
 

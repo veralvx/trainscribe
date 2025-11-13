@@ -1,6 +1,6 @@
 [project]
 name = "trainscribe"
-version = "0.1.1"
+version = "0.1.2"
 description = "A command-line tool for transcribing audio files in a folder to a metadata.csv file, using OpenAI's Whisper."
 readme = "README.md"
 authors = [{ name = "VERA LVX", email = "veralvx@veralvx.com" }]
